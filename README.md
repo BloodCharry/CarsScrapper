@@ -18,3 +18,5 @@ For each car model, the parser has to go to the model page and retrieve the nece
 All extracted data is saved to a json file or a database (your choice) for further processing. In addition, the parser can be configured to automatically update the information from the cardekho.com site to get the latest data on makes and models of cars.
 
 Thus, the created parser will automate the collection and processing of information about makes and models of cars from the resource cardekho.com, which can be useful for market research, market analysis and other purposes.
+
+I do not keep the code in the public domain, as it is my livelihood sorry).
