@@ -1,0 +1,644 @@
+//brand
+{
+	"_id" : "103",
+	"slug" : "pure-ev",
+	"brandName" : "PURE EV",
+	"type" : "BIKE",
+	"imageDtos" : [
+		{
+			"hostUrl" : "https://s3.ap-south-1.amazonaws.com/carinfo.cdn",
+			"imagePath" : "cars/pure-ev/57845e41-d895-4f50-ad73-ab6b51d4d9bd.png",
+			"title" : "PURE EV"
+		}
+	],
+	"verified" : false,
+	"dateCreated" : NumberLong("1656417859805"),
+	"lastModified" : NumberLong("1656417859805"),
+	"deleted" : false,
+}
+//Model
+{
+	"_id" : "1096",
+	"slug" : "electra-neo",
+	"modelName" : "Techo Electra Neo",
+	"type" : "BIKE",
+	"verified" : false,
+	"brandId" : "92",
+	"brandSlug" : "techo-electra",
+	"brandName" : "Techo Electra",
+	"avgRating" : "1.0",
+	"reviewCount" : 1,
+	"minPrice" : "₹ 41,557*",
+	"maxPrice" : "₹ 41,557",
+	"minPriceAbsolute" : 55053,
+	"maxPriceAbsolute" : 55053,
+	"priceRange" : "₹ 55,053*",
+	"mileage" : "55",
+	"fuelType" : "Electric",
+	"transmissionType" : "",
+	"modelImage" : {
+		"hostUrl" : "https://s3.ap-south-1.amazonaws.com/carinfo.cdn",
+		"imagePath" : "cars/techo-electra/electra-neo/3fd5ed50-7e80-477c-ace8-abffd2ec5182.jpg",
+		"title" : "Techo Electra Neo"
+	},
+	"safetyScore" : 0,
+	"vehicleType" : "scooters",
+	"engine" : "250 cc",
+	"exShowRoomPrice" : "55,053",
+	"noOfVariants" : 1,
+	"keySpecs" : [
+		{
+			"label" : "Range",
+			"value" : "55 - 60 km/charge"
+		},
+		{
+			"label" : "Battery Capacity",
+			"value" : "48 V/24 Ah"
+		},
+		{
+			"label" : "Battery Warranty",
+			"value" : "1 Year"
+		},
+		{
+			"label" : "Motor Power",
+			"value" : "250 W"
+		},
+		{
+			"label" : "Motor",
+			"value" : "BLDC"
+		},
+		{
+			"label" : "Charging Time",
+			"value" : "2.5 - 4 Hrs"
+		}
+	],
+	"colorGalleries" : [
+		{
+			"title" : "Grey matellic",
+			"hexcode" : "#626261",
+			"imageDto" : {
+				"hostUrl" : "https://s3.ap-south-1.amazonaws.com/carinfo.cdn",
+				"imagePath" : "cars/techo-electra/electra-neo/8c5d75f8-ee5a-457c-a54b-f9475a92dec4.jpg",
+				"title" : "Grey matellic"
+			},
+			"parentColor" : "Grey matellic"
+		},
+		{
+			"title" : "Green",
+			"hexcode" : "#91B249",
+			"imageDto" : {
+				"hostUrl" : "https://s3.ap-south-1.amazonaws.com/carinfo.cdn",
+				"imagePath" : "cars/techo-electra/electra-neo/6988ba27-f806-48a2-9767-3291e6b1bad2.jpg",
+				"title" : "Green"
+			},
+			"parentColor" : "Green"
+		},
+		{
+			"title" : "White",
+			"hexcode" : "#E4E4E4",
+			"imageDto" : {
+				"hostUrl" : "https://s3.ap-south-1.amazonaws.com/carinfo.cdn",
+				"imagePath" : "cars/techo-electra/electra-neo/1528ce88-6d02-4a0f-929b-7c83d6c5de7f.jpg",
+				"title" : "White"
+			},
+			"parentColor" : "White"
+		},
+		{
+			"title" : "Red",
+			"hexcode" : "#7C1317",
+			"imageDto" : {
+				"hostUrl" : "https://s3.ap-south-1.amazonaws.com/carinfo.cdn",
+				"imagePath" : "cars/techo-electra/electra-neo/37925a94-f3e1-4941-938e-5d5c256e40d4.jpg",
+				"title" : "Red"
+			},
+			"parentColor" : "Red"
+		}
+	],
+	"exteriorImages" : [ ],
+	"deleted" : false,
+}
+//Varient
+{
+	"_id" : "1274",
+	"slug" : "ridge-std",
+	"modelId" : "799",
+	"modelSlug" : "ridge",
+	"brandId" : "68",
+	"brandSlug" : "okinawa",
+	"verified" : false,
+	"type" : "BIKE",
+	"name" : "Okinawa Ridge Plus (Without GPS)",
+	"brandName" : "Okinawa",
+	"modelName" : "Okinawa Ridge",
+	"exShowRoomPrice" : "64,797",
+	"onRoadPrice" : "64797",
+	"shortDesc" : "Electric..84 kmpl",
+	"priceRange" : "₹ 64,797 - 70,935*",
+	"rating" : "3.5",
+	"reviewCount" : "19",
+	"modelPriceRange" : "₹ 64,797 - 70,935*",
+	"fuelType" : "Electric",
+	"variantImage" : {
+		"hostUrl" : "https://s3.ap-south-1.amazonaws.com/carinfo.cdn",
+		"imagePath" : "cars/okinawa/ridge/ridge-std/d39ba329-5e6e-4f97-a940-a7d51de04f87.jpg",
+		"title" : "Okinawa Ridge Plus (Without GPS)"
+	},
+	"mileage" : "84",
+	"transmissionType" : "",
+	"keySpecs" : [
+		{
+			"label" : "Mileage",
+			"value" : "84 kmpl"
+		},
+		{
+			"label" : "Top speed",
+			"value" : "45 kmph"
+		}
+	],
+	"detailSpecifications" : [
+		{
+			"title" : "Overview",
+			"specItems" : [
+				{
+					"label" : "Mileage ",
+					"value" : "- "
+				},
+				{
+					"label" : "Range",
+					"value" : "84 km/charge "
+				},
+				{
+					"label" : "Motor Power",
+					"value" : "1700 W "
+				},
+				{
+					"label" : "Motor Type",
+					"value" : "BLDC "
+				},
+				{
+					"label" : "Charging Time",
+					"value" : "2-3 Hours "
+				},
+				{
+					"label" : "Front Brake",
+					"value" : "Drum "
+				},
+				{
+					"label" : "Rear Brake",
+					"value" : "Drum "
+				},
+				{
+					"label" : "Body Type",
+					"value" : "Electric Bikes "
+				}
+			]
+		},
+		{
+			"title" : "Performance",
+			"specItems" : [
+				{
+					"label" : "Motor Power",
+					"value" : "1700 w"
+				},
+				{
+					"label" : "Motor Type",
+					"value" : "BLDC "
+				},
+				{
+					"label" : "Battery Charging Time",
+					"value" : "2-3 hours"
+				},
+				{
+					"label" : "Range",
+					"value" : "84 km/charge"
+				}
+			]
+		},
+		{
+			"title" : "Transmission",
+			"specItems" : [
+				{
+					"label" : "Transmission Type",
+					"value" : "Automatic "
+				}
+			]
+		},
+		{
+			"title" : "Fuel",
+			"specItems" : [
+				{
+					"label" : "Fuel Type",
+					"value" : "Electric "
+				}
+			]
+		},
+		{
+			"title" : "Brake",
+			"specItems" : [
+				{
+					"label" : "Radial Tyre",
+					"value" : "YES "
+				}
+			]
+		},
+		{
+			"title" : "Features",
+			"specItems" : [
+				{
+					"label" : "Wheels Type",
+					"value" : "Alloy "
+				},
+				{
+					"label" : "Tyre Type",
+					"value" : "Tubeless "
+				},
+				{
+					"label" : "Console",
+					"value" : "Digital "
+				},
+				{
+					"label" : "Battery Type",
+					"value" : "Lithium Ion "
+				},
+				{
+					"label" : "Service Due Indicator",
+					"value" : "YES "
+				},
+				{
+					"label" : "Battery Indicator",
+					"value" : "2-3 Hours "
+				},
+				{
+					"label" : "Seat Type",
+					"value" : "Single "
+				},
+				{
+					"label" : "Tripmeter",
+					"value" : "Digital "
+				},
+				{
+					"label" : "Speedometer",
+					"value" : "Digital "
+				},
+				{
+					"label" : "Odometer",
+					"value" : "Digital "
+				},
+				{
+					"label" : "Central Locking",
+					"value" : "1 "
+				},
+				{
+					"label" : "Anti Theft Alarm",
+					"value" : "1 "
+				},
+				{
+					"label" : "Brakes",
+					"value" : "Drum "
+				},
+				{
+					"label" : "Pass Switch",
+					"value" : "YES "
+				}
+			]
+		},
+		{
+			"title" : "Tyre Size",
+			"specItems" : [
+				{
+					"label" : "Tyre Size",
+					"value" : "Front :-3.00-10,\tRear :-3.00-10 "
+				},
+				{
+					"label" : "Tyre Type",
+					"value" : "Tubeless "
+				},
+				{
+					"label" : "Radial Tyres",
+					"value" : "YES "
+				},
+				{
+					"label" : "Wheel Type",
+					"value" : "Alloy "
+				}
+			]
+		},
+		{
+			"title" : "Wheel Size",
+			"specItems" : [
+				{
+					"label" : "Wheel Size",
+					"value" : "Front :-254 mm,Rear :-254 mm "
+				},
+				{
+					"label" : "Wheel Type",
+					"value" : "Alloy "
+				}
+			]
+		},
+		{
+			"title" : "Chassis",
+			"specItems" : [
+				{
+					"label" : "Body Type",
+					"value" : "Electric Bikes "
+				},
+				{
+					"label" : "Body Graphics",
+					"value" : "YES "
+				}
+			]
+		},
+		{
+			"title" : "Dimension",
+			"specItems" : [
+				{
+					"label" : "Length",
+					"value" : "1740 mm "
+				},
+				{
+					"label" : "Height",
+					"value" : "680 mm "
+				},
+				{
+					"label" : "Width",
+					"value" : "1075 mm "
+				},
+				{
+					"label" : "Ground Clearance",
+					"value" : "160 mm "
+				},
+				{
+					"label" : "Saddle Height",
+					"value" : "735 mm "
+				},
+				{
+					"label" : "Weight Carrying Capacity",
+					"value" : "150 kg "
+				}
+			]
+		},
+		{
+			"title" : "Features Value",
+			"specItems" : [
+				{
+					"label" : "Instrument Console",
+					"value" : "Digital "
+				},
+				{
+					"label" : "Navigation",
+					"value" : "YES "
+				},
+				{
+					"label" : "Geo Fencing",
+					"value" : "YES "
+				},
+				{
+					"label" : "Anti Theft Alarm",
+					"value" : "YES "
+				},
+				{
+					"label" : "Speedometer",
+					"value" : "Digital "
+				},
+				{
+					"label" : "Tripmeter",
+					"value" : "Digital "
+				},
+				{
+					"label" : "Odometer",
+					"value" : "Digital "
+				},
+				{
+					"label" : "Central Locking",
+					"value" : "YES "
+				},
+				{
+					"label" : "Additional Features Of Variant",
+					"value" : "Immobilization, Trips, Secure Parking, Tracking & Monitoring, Battery Info, Speed, Alerts and Driver Score, ICAT/ARAI Approved "
+				},
+				{
+					"label" : "Seat Type",
+					"value" : "Single "
+				},
+				{
+					"label" : "Body Graphics",
+					"value" : "YES "
+				},
+				{
+					"label" : "Underseat storage",
+					"value" : "17 L "
+				}
+			]
+		},
+		{
+			"title" : "Electrical",
+			"specItems" : [
+				{
+					"label" : "Headlight",
+					"value" : "Halogen "
+				},
+				{
+					"label" : "Tail Light",
+					"value" : "Bulb "
+				},
+				{
+					"label" : "Turn Signal Lamp",
+					"value" : "Bulb "
+				},
+				{
+					"label" : "LED Tail Lights",
+					"value" : "YES "
+				},
+				{
+					"label" : "Low Battery Indicator",
+					"value" : "YES "
+				}
+			]
+		},
+		{
+			"title" : "Safety",
+			"specItems" : [
+				{
+					"label" : "Mobile Application",
+					"value" : "YES "
+				},
+				{
+					"label" : "Gradeability",
+					"value" : "7° "
+				},
+				{
+					"label" : "Service Due Indicator",
+					"value" : "YES "
+				},
+				{
+					"label" : "Speedometer",
+					"value" : "Digital "
+				},
+				{
+					"label" : "Odometer",
+					"value" : "Digital "
+				},
+				{
+					"label" : "Tripmeter",
+					"value" : "Digital "
+				},
+				{
+					"label" : "Pass Switch",
+					"value" : "YES "
+				},
+				{
+					"label" : "Central Locking",
+					"value" : "YES "
+				},
+				{
+					"label" : "EBS",
+					"value" : "YES "
+				},
+				{
+					"label" : "Additional Features",
+					"value" : "Immobilization, Trips, Secure Parking, Tracking & Monitoring, Battery Info, Speed, Alerts and Driver Score, ICAT/ARAI Approved "
+				},
+				{
+					"label" : "Display",
+					"value" : "YES "
+				}
+			]
+		},
+		{
+			"title" : "Warranty",
+			"specItems" : [
+				{
+					"label" : "Standard Warranty (Years)",
+					"value" : "3 "
+				}
+			]
+		},
+		{
+			"title" : "Service Charges",
+			"specItems" : [ ]
+		}
+	],
+	"exteriorImages" : [
+		{
+			"hostUrl" : "https://s3.ap-south-1.amazonaws.com/carinfo.cdn",
+			"imagePath" : "cars/okinawa/ridge/81185c37-a7db-40a9-a64e-12d5856dedbf.jpg",
+			"title" : "Okinawa Ridge Right Side View"
+		},
+		{
+			"hostUrl" : "https://s3.ap-south-1.amazonaws.com/carinfo.cdn",
+			"imagePath" : "cars/okinawa/ridge/e54c9d1b-f5e4-4339-86b0-5d63ce7a3628.jpg",
+			"title" : "Okinawa Ridge Left Side View"
+		},
+		{
+			"hostUrl" : "https://s3.ap-south-1.amazonaws.com/carinfo.cdn",
+			"imagePath" : "cars/okinawa/ridge/5130f3cf-a787-43c1-a847-dc940a4c95f4.jpg",
+			"title" : "Okinawa Ridge Front View"
+		},
+		{
+			"hostUrl" : "https://s3.ap-south-1.amazonaws.com/carinfo.cdn",
+			"imagePath" : "cars/okinawa/ridge/f4530ee2-9e70-45c0-b69b-0086c19440a3.jpg",
+			"title" : "Okinawa Ridge Rear View"
+		},
+		{
+			"hostUrl" : "https://s3.ap-south-1.amazonaws.com/carinfo.cdn",
+			"imagePath" : "cars/okinawa/ridge/a71898df-2018-4b00-ba01-2185de795e9c.jpg",
+			"title" : "Okinawa Ridge Head Light"
+		},
+		{
+			"hostUrl" : "https://s3.ap-south-1.amazonaws.com/carinfo.cdn",
+			"imagePath" : "cars/okinawa/ridge/bb87dff6-a195-4194-b86e-d5f63d8c83aa.jpg",
+			"title" : "Okinawa Ridge Tail Light"
+		},
+		{
+			"hostUrl" : "https://s3.ap-south-1.amazonaws.com/carinfo.cdn",
+			"imagePath" : "cars/okinawa/ridge/a99219dc-a3fb-4e2f-a4b9-0a22a88cd22b.jpg",
+			"title" : "Okinawa Ridge Seat"
+		},
+		{
+			"hostUrl" : "https://s3.ap-south-1.amazonaws.com/carinfo.cdn",
+			"imagePath" : "cars/okinawa/ridge/f62c06ea-516a-405c-b8a7-31ea43d59bfa.jpg",
+			"title" : "Okinawa Ridge Rear Tyre View"
+		},
+		{
+			"hostUrl" : "https://s3.ap-south-1.amazonaws.com/carinfo.cdn",
+			"imagePath" : "cars/okinawa/ridge/de302155-a2cc-46a8-9fe4-04a701ae0d0f.jpg",
+			"title" : "Okinawa Ridge Front Tyre View"
+		},
+		{
+			"hostUrl" : "https://s3.ap-south-1.amazonaws.com/carinfo.cdn",
+			"imagePath" : "cars/okinawa/ridge/083943bc-a20a-4f0e-8a23-a21ca88ede74.jpg",
+			"title" : "Okinawa Ridge Rear Suspension View"
+		},
+		{
+			"hostUrl" : "https://s3.ap-south-1.amazonaws.com/carinfo.cdn",
+			"imagePath" : "cars/okinawa/ridge/9725ffad-c58c-4fa9-9f08-527449c88d7c.jpg",
+			"title" : "Okinawa Ridge"
+		}
+	],
+	"price" : "₹ 64,797",
+	"bodyType" : "scooters",
+	"colorGalleries" : [
+		{
+			"title" : "Lucent Orange & Magna Grey",
+			"hexcode" : "#FF6600",
+			"imageDto" : {
+				"hostUrl" : "https://s3.ap-south-1.amazonaws.com/carinfo.cdn",
+				"imagePath" : "cars/okinawa/ridge/66b36f1e-f168-4217-bcf4-1bb11c667dda.jpg",
+				"title" : "Lucent Orange & Magna Grey"
+			},
+			"parentColor" : "Lucent Orange & Magna Grey"
+		},
+		{
+			"title" : "White",
+			"hexcode" : "#E4E4E4",
+			"imageDto" : {
+				"hostUrl" : "https://s3.ap-south-1.amazonaws.com/carinfo.cdn",
+				"imagePath" : "cars/okinawa/ridge/80a7dd30-15b8-4a2d-aea7-a8461f193532.jpg",
+				"title" : "White"
+			},
+			"parentColor" : "White"
+		},
+		{
+			"title" : "Orange",
+			"hexcode" : "#CA6922",
+			"imageDto" : {
+				"hostUrl" : "https://s3.ap-south-1.amazonaws.com/carinfo.cdn",
+				"imagePath" : "cars/okinawa/ridge/38f2b417-1f42-4f78-9945-e73e2d43bf56.jpg",
+				"title" : "Orange"
+			},
+			"parentColor" : "Orange"
+		},
+		{
+			"title" : "Red",
+			"hexcode" : "#7C1317",
+			"imageDto" : {
+				"hostUrl" : "https://s3.ap-south-1.amazonaws.com/carinfo.cdn",
+				"imagePath" : "cars/okinawa/ridge/51917a41-0f0a-4859-b097-351b82114db3.jpg",
+				"title" : "Red"
+			},
+			"parentColor" : "Red"
+		},
+		{
+			"title" : "Grey",
+			"hexcode" : "#484848",
+			"imageDto" : {
+				"hostUrl" : "https://s3.ap-south-1.amazonaws.com/carinfo.cdn",
+				"imagePath" : "cars/okinawa/ridge/2ed8fb3e-bf52-4089-afa1-c0757b70f402.jpg",
+				"title" : "Grey"
+			},
+			"parentColor" : "Grey"
+		},
+		{
+			"title" : "MId Night Blue",
+			"hexcode" : "#2a75b8",
+			"imageDto" : {
+				"hostUrl" : "https://s3.ap-south-1.amazonaws.com/carinfo.cdn",
+				"imagePath" : "cars/okinawa/ridge/d8b01a5f-db4b-4376-af16-6662cb6b3a02.jpg",
+				"title" : "MId Night Blue"
+			},
+			"parentColor" : "MId Night Blue"
+		}
+	],
+	"deleted" : false
+}
